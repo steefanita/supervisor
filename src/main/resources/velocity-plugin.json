@@ -1,0 +1,8 @@
+{ 
+  "id": "supervisor", 
+  "name": "Supervisor", 
+  "version": "1.0.0", 
+  "description": "Manage child Minecraft servers from Velocity.", 
+  "authors": ["steefanita"], 
+  "main": "me.steefanita.supervisor.Main" 
+} 
